@@ -96,4 +96,3 @@ Create visual representations to communicate insights effectively.
 
 ### H. Interpretation and Insight Generation
 Extract meaningful insights and interpret the results.
-```
