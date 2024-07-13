@@ -1,3 +1,5 @@
+
+![pic02](https://github.com/user-attachments/assets/aefbc304-1b5c-4b70-b58a-9f542d60b311)
 # Distribution Network Analysis: Capacity Planning for Electric Vehicle (EV) Adoption
 # PowerCharge Utilities: Business Overview
 
